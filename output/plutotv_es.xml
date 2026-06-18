@@ -2691,6 +2691,11 @@
         <desc>Cyrano está enamorado de Roxane al igual que su amigo Christian, pero éste, que posee todo el atractivo del que carece Cyrano, no sabe cómo cortejarla.</desc>
         <icon src="https://images.pluto.tv/series/61a4a4d4eeb8a3001307b500/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61373bb45168fe000773eecd" start="20260618043156 +0000" stop="20260618060115 +0000">
+        <title>El discípulo del diablo</title>
+        <desc>Adaptación de una obra de Bernard Shaw basada en hechos ocurridos en 1777. Durante la Guerra de Independencia de los EEUU surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
+        <icon src="https://images.pluto.tv/series/64fee968020c540013075209/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6267d4d1fb694f0007a6af0e" start="20260617224840 +0000" stop="20260618003940 +0000">
         <title>La Monja</title>
         <desc>Seis niñas viven internadas en colegio atemorizadas y maltratadas por una temible monja. La monja descubre que una de las niñas está embarazada y, escandalizada, intenta purificarla. Sus amigas deciden ayudarla presas del miedo y la rabia.</desc>
@@ -12535,6 +12540,11 @@
         <title>Fresa y chocolate</title>
         <desc>David es un comunista convencido que estudia en la Universidad de La Habana. Diego es un artista homosexual acosado por la homofobia del régimen castrista. A pesar de las abismales diferencias que los separan, entre ellos surge una profunda amistad.</desc>
         <icon src="https://images.pluto.tv/series/63b411b888bc2000134e3d21/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260618130024 +0000" stop="20260618145424 +0000">
+        <title>Reina Cristina</title>
+        <desc>El retrato de la brillante y extravagante Kristina de Suecia, reina desde los seis años, que lucha contra las fuerzas conservadoras que están en contra de sus ideas para modernizar Suecia y que no toleran su sexualidad.</desc>
+        <icon src="https://images.pluto.tv/series/63ad7600a6bb3b001471c4e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260618080059 +0000" stop="20260618085559 +0000">
         <title>Historias de Ultratumba: La casa de Sallie</title>
@@ -22597,6 +22607,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Cuando una escritora de la gran ciudad (Penny) comienza a preguntar sobre las atroces acciones de los ladrones de ganado, South rápidamente defiende la brutal realidad que impera el “código del Oeste”.</desc>
         <icon src="https://images.pluto.tv/series/5f4e184afa72a5001a5fa7d6/tile_1769023802582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260618204354 +0000" stop="20260618222354 +0000">
+        <title>Santa Clara</title>
+        <desc>Película boliviana que retrata el universo de los arreadores de ganado, un drama con tintes de western que se desarrolla en el Beni, oriente boliviano.</desc>
+        <icon src="https://images.pluto.tv/series/602266353db1af001c821557/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260618162436 +0000" stop="20260618164836 +0000">
         <title>South Park VOSE: 1 %</title>
         <desc>El 99 % está atacando a Eric Cartman.</desc>
@@ -25322,15 +25337,30 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/69172311f17cb9c145a8129b/tile_1763172856733.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260618163000 +0000" stop="20260619004000 +0000">
-        <title>Rally TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260619004000 +0000" stop="20260619013600 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
+    <programme channel="696e02423b9ce349c90edef9" start="20260618154800 +0000" stop="20260618164800 +0000">
+        <title>FIA World Rally Championship: Rally Chile Bio - Stage 13</title>
+        <desc>A full replay of stage 13 at the Rally Chile Bio in 2025 during the FIA World Rally Championship.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260618164800 +0000" stop="20260618173900 +0000">
+        <title>WRC: More Than Machine</title>
+        <desc>Series following members of the M-Sport WRC team about the trials and tribulations of competing in Rally driving at the highest level.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce984b1996b7d1334b2a/tile_1772539544875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260618173900 +0000" stop="20260618184700 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>The full replay from stage 14 of the Rally Chile Bio Bío 2025.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260618184700 +0000" stop="20260618194600 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>The full replay from stage 15 of the Rally Chile Bio Bío 2025.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260618194600 +0000" stop="20260618203300 +0000">
+        <title>WRC: More Than Machine</title>
+        <desc>Series following members of the M-Sport WRC team about the trials and tribulations of competing in Rally driving at the highest level.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce984b1996b7d1334b2a/tile_1772539544875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69f9c50202b6c1c00a213519" start="20260618160027 +0000" stop="20260618163027 +0000">
         <title>Dominance FC TV - Daytime Cards</title>
@@ -27361,6 +27391,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Encontré al Diablo</title>
         <desc>Un agente secreto jura venganza contra el psicópata Kyung-chul, que asesinó a su prometida. En su cacería sangrienta, el agente se obsesiona tanto que corre el riesgo de volverse tan monstruoso como su presa.</desc>
         <icon src="https://images.pluto.tv/series/698b0830ce312dca6a17c190/tile_1770719281169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20260619005701 +0000" stop="20260619022421 +0000">
+        <title>The Possession Experiment</title>
+        <desc>Un estudiante decide hacer un experimento para su clase de teología intentando contactarse con fuerzas sobrenaturales.</desc>
+        <icon src="https://images.pluto.tv/series/653f9efc2a6001001a7aa3f4/tile_1768608729860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="628751bb7154a40007168843" start="20260618202928 +0000" stop="20260618205428 +0000">
         <title>South Park: ¡Sigue ese huevo!</title>
